@@ -1,8 +1,12 @@
 import React from "react";
 import Quote from "../components/Quote";
+import TextSection from "../components/TextSection";
 import homeLogo from "../images/home-logo.jpg";
-import { useQuery } from "@apollo/client";
-import { QUERY_PROFILES } from "../utils/queries";
+import diamond from "../images/diamond-outline.svg";
+import barbell from "../images/barbell-outline.svg";
+import scale from "../images/scale-outline.svg";
+// import { useQuery } from "@apollo/client";
+// import { QUERY_PROFILES } from "../utils/queries";
 
 const Home = () => {
   // const { loading, data } = useQuery(QUERY_PROFILES);
@@ -12,6 +16,11 @@ const Home = () => {
     <>
       <img style={{ height: "700px", width: "100%" }} src={homeLogo} />
       <Quote text="It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable." author="Socrates" />
+      <section className="flex flex-row flex-wrap justify-around bg-[#B2B1B9] py-10">
+        <TextSection image={barbell} text="Pump Iron and Get Stronger!" />
+        <TextSection image={scale} text="Lose Weight and Feel Good!" />
+        <TextSection image={diamond} text="Become The Best Version of Yourself!" />
+      </section>
     </>
   );
 };
