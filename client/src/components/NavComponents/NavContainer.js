@@ -2,7 +2,7 @@ import NavLinks from "./NavLinks";
 
 const NavContainer = () => {
   return (
-    <div>
+    <div className="mr-5">
       <NavLinks />
     </div>
   );
