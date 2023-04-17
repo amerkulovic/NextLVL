@@ -1,4 +1,5 @@
 import React from "react";
+import homeLogo from "../images/home-logo.jpg";
 import { useQuery } from "@apollo/client";
 import { QUERY_PROFILES } from "../utils/queries";
 
@@ -8,7 +9,7 @@ const Home = () => {
 
   return (
     <>
-      <div className="font-bold">hello</div>
+      <img src={homeLogo} />
     </>
   );
 };
