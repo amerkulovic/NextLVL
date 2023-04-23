@@ -10,7 +10,7 @@ const NavLinks = () => {
         <li className="px-4 my-4">Trainers</li>
         <li className="px-4 my-4">Exercises</li>
         <li className="px-4 my-4">Shop</li>
-        <li className="px-4 my-4">Contact</li>
+        <li className="pl-4 my-4">Contact</li>
       </ul>
     </>
   );
