@@ -2,10 +2,8 @@ const CircleText = (props) => {
   return (
     <>
       <div className="flex flex-col items-center">
-        <div className="bg-[#FFD523] border border-black rounded-full p-20 m-5">
-          <img className="h-40 w-40" src={props.image} />
-        </div>
-        <h1 className="font-extralight text-2xl text-white">{props.text}</h1>
+        <img src={props.image} style={{ width: "400px", height: "400px", borderRadius: "50%" }} />
+        <h1 className="font-extralight text-2xl text-white m-5">{props.text}</h1>
       </div>
     </>
   );
