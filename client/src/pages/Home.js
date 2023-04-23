@@ -14,9 +14,10 @@ const Home = () => {
 
   return (
     <>
+      {/* bg-gradient-to-r from-[#2C2E43] via-[#595260] to-[#595260] */}
       <img style={{ height: "700px", width: "100%" }} src={homeLogo} />
       <Quote text="It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable." author="Socrates" />
-      <section className="flex flex-row flex-wrap justify-around bg-[#595260] py-10">
+      <section className="flex flex-row flex-wrap justify-around bg-gradient-to-b from-[#2C2E43] from-0% via-[#595260] via-1%  to-[#2C2E43] to-99% py-10">
         <CircleText image={weights} text="Pump Iron and Get Stronger!" />
         <CircleText image={stretching} text="Lose Weight and Feel Good!" />
         <CircleText image={lifting} text="Become The Best Version of Yourself!" />
