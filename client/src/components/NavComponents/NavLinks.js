@@ -3,14 +3,14 @@ import { Link } from "react-router-dom";
 const NavLinks = () => {
   return (
     <>
-      <ul className="flex flex-row text-xl text-[#FFD523] font-extralight">
+      <ul className="flex flex-row text-xl text-black font-extralight" style={{ fontFamily: "Bruno Ace SC" }}>
         <Link to="/about">
-          <li className="px-4 my-4">About</li>
+          <li className="mx-1 my-4 p-2 border-2 border-black bg-[#FFD523]">About</li>
         </Link>
-        <li className="px-4 my-4">Trainers</li>
-        <li className="px-4 my-4">Exercises</li>
-        <li className="px-4 my-4">Shop</li>
-        <li className="pl-4 my-4">Contact</li>
+        <li className="mx-1 my-4 p-2 border-2 border-black bg-[#FFD523]">Trainers</li>
+        <li className="mx-1 my-4 p-2 border-2 border-black bg-[#FFD523]">Exercises</li>
+        <li className="mx-1 my-4 p-2 border-2 border-black bg-[#FFD523]">Shop</li>
+        <li className="ml-1 my-4 p-2 border-2 border-black bg-[#FFD523]">Contact</li>
       </ul>
     </>
   );
