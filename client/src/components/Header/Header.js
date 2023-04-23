@@ -13,7 +13,9 @@ const Header = () => {
     <header className="absolute z-10 w-full">
       <div className="flex flex-row justify-between items-center pl-5 mt-4">
         {/* <h1 className="text-white font-bold text-4xl">Next LVL</h1> */}
-        <img src={Logo} className="h-20 w-90"/>
+        <Link to="/">
+          <img src={Logo} className="h-20 w-90" />
+        </Link>
         <NavContainer />
       </div>
     </header>
