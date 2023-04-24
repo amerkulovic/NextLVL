@@ -1,0 +1,29 @@
+.title {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  opacity: 0;
+}
+
+.trainer-card {
+  position: relative;
+  width: 420px;
+  height: 500px;
+  text-align: center;
+  color: white;
+}
+
+.trainer-card:hover .trainer-image {
+  filter: blur(2px) brightness(60%);
+  box-shadow: 0 0 16px #f9e744;
+}
+
+.trainer-card:hover .title {
+  opacity: 1;
+}
+
+.title:hover ~ .trainer-card {
+  filter: blur(2px) brightness(60%);
+  box-shadow: 0 0 16px #f9e744;
+}
