@@ -9,6 +9,14 @@ const typeDefs = gql`
     skills: [String]!
   }
 
+  type Product {
+    _id: ID
+    title: String
+    description: String
+    imageURL: String
+    price: Float
+  }
+
   type Auth {
     token: ID!
     profile: Profile
