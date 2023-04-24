@@ -10,8 +10,12 @@ const NavLinks = () => {
         <Link to="/trainers">
           <li className="mx-1 my-4 p-2">Trainers</li>
         </Link>
-        <li className="mx-1 my-4 p-2">Exercises</li>
-        <li className="mx-1 my-4 p-2">Shop</li>
+        <Link to="/exercises">
+          <li className="mx-1 my-4 p-2">Exercises</li>
+        </Link>
+        <Link to="/shop">
+          <li className="mx-1 my-4 p-2">Shop</li>
+        </Link>
         <li className="ml-1 my-4 p-2">Contact</li>
       </ul>
     </>
