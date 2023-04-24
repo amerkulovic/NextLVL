@@ -10,7 +10,7 @@ const Trainers = () => {
   return (
     <>
       <div className="pt-40 bg-[#2C2E43]" />
-      <div className="flex flex-wrap justify-around">
+      <div className="flex flex-wrap justify-around bg-gradient-to-b from-[#2C2E43] from-7% via-white via-50% to-[#2C2E43] to-98%">
         <TrainerProfile name="Jack" desc="Weightlifting" image={tanktop} />
         <TrainerProfile name="Hayley" desc="Crossfit" image={hayley} />
         <TrainerProfile name="Dominic" desc="Powerlifting" image={buffguy} />
