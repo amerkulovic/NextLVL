@@ -11,7 +11,12 @@ const ShopItem = (props) => {
           </h5>
           <div class="flex items-center justify-between pt-2">
             <span class="text-3xl font-bold text-black">{props.price}</span>
-            <button class="text-white bg-[#e9c10f] hover:bg-yellow-500 font-medium text-sm px-5 py-2.5 text-center">Add to cart</button>
+            <button
+              class="text-white bg-[#e9c10f] hover:bg-yellow-500 font-medium text-sm px-5 py-2.5 text-center"
+             onClick={props.addToCartHandler}
+            >
+              Add to cart
+            </button>
           </div>
         </div>
       </div>

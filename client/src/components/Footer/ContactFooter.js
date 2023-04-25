@@ -1,6 +1,6 @@
 const ContactFooter = () => {
   return (
-    <div className="bg-[#2C2E43] border-b border-yellow-400 pt-32 pb-10 flex justify-between items-center">
+    <div className="bg-[#2C2E43] border-b border-yellow-400 pt-32 pl-5 pb-10 flex justify-between items-center">
       <section className="flex flex-col justify-start text-white pl-4">
         <h1 className="text-5xl pb-2" style={{ fontFamily: "Bruno Ace SC" }}>
           Stay Updated
