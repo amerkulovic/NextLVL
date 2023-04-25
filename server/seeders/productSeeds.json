@@ -1,8 +1,20 @@
 [
   {
     "title": "Next LVL Creatine",
-    "description": "The best creatine on the market",
-    "imageURL": "https://stock.adobe.com/images/3d-render-of-creatine-bottle-over-white/153068102",
+    "description": "Maximize your athletic performance and gain more strength and power with our top-quality creatine supplement from Next LVL.",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234182486-eaf3d6df-6859-44e7-9174-b66d2b648b60.png",
     "price": 29.99
+  },
+  {
+    "title": "Next LVL Protein",
+    "description": "Experience the Next LVL of fitness with our premium protein powder that helps you build lean muscle, recover faster, and achieve your health goals.",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234182069-90d46210-05ac-41a1-a5a3-fdcc9d754080.png",
+    "price": 24.99
+  },
+  {
+    "title": "Next LVL Pre-Workout",
+    "description": "Get ready to crush your workouts and take your training to the Next LVL with our powerful and effective pre-workout supplement, designed to enhance your energy, focus, and endurance.",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234182506-3118af90-4c30-4962-a472-f3b27c4265fe.png",
+    "price": 21.99
   }
 ]

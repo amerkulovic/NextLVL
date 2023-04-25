@@ -1,5 +1,6 @@
 import { useQuery } from "@apollo/client";
 import { QUERY_PRODUCTS } from "../utils/queries";
+import ShopItem from "../components/UI/ShopItem";
 
 const Shop = () => {
   const { loading, data } = useQuery(QUERY_PRODUCTS);
@@ -8,11 +9,10 @@ const Shop = () => {
   return (
     <>
       <div className="pt-40 bg-[#2C2E43]" />
-      <section className="bg-gradient-to-b from-[#2C2E43] from-7% via-white via-50% to-[#2C2E43] to-98%">
+      <section className="bg-gradient-to-b from-[#2C2E43] from-7% via-white via-50% to-[#2C2E43] to-98% flex flex-wrap justify-around pb-40">
         {products.map((product) => (
           <>
-            <h1 className="pt-40">{product.title}</h1>
-            <h1 className="pt-40">{product.description}</h1>
+            <ShopItem title={product.title} price={product.price} image={product.imageURL} />
           </>
         ))}
       </section>
