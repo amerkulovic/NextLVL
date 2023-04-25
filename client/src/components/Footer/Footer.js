@@ -1,24 +1,22 @@
 import React from "react";
+import Logo from "../../images/Logo.png";
 import ContactFooter from "./ContactFooter";
+import FooterSection from "./FooterSection";
 
 const Footer = () => {
   return (
     <>
       <ContactFooter />
-      <footer className="bg-[#2C2E43] flex flex-wrap justify-center py-5">
-        <div className="flex flex-col items-center">
-          <ul className="flex flex-row text-xl text-[#FFD523] font-extralight">
-            <li className="px-4 my-4 max-sm:my-1">About</li>
-            <li className="px-4 my-4 max-sm:my-1">Trainers</li>
-            <li className="px-4 my-4 max-sm:my-1">Exercises</li>
-            <li className="px-4 my-4 max-sm:my-1">Shop</li>
-            <li className="px-4 my-4 max-sm:my-1">Contact</li>
-          </ul>
-          <ul className="flex flex-row max-sm:flex-col text-xl text-[#FFD523] font-extralight">
-            <li className="px-4 my-4">NextLVL@gmail.com</li>
-            <li className="px-4 my-4">123 Level Up Street, Chicago IL</li>
-            <li className="px-4 my-4">(555)-555-5555</li>
-          </ul>
+      <footer className="bg-[#2C2E43] flex flex-wrap justify-between items-center py-5">
+        <section className="flex flex-row">
+          <FooterSection header="Discover" item1="About" item2="Trainers" item3="Exercises" item4="Shop" item5="Contact" />
+          <FooterSection header="Contact" item1="NextLVL@gmail.com" item2="123 Level Up Street, Chicago IL" item3="(555)-555-5555" />
+        </section>
+        <div className="flex flex-col items-center mr-10">
+          <img src={Logo} className="h-20 w-90 border-2 border-black" />
+          <h1 className="text-white text-xl mt-1" style={{ fontFamily: "Bruno Ace SC" }}>
+            Fitness
+          </h1>
         </div>
       </footer>
     </>
