@@ -1,8 +1,8 @@
 const ContactFooter = () => {
   return (
-    <div className="bg-[#2C2E43]">
+    <div className="bg-[#2C2E43] border-b border-yellow-400 pt-32 pb-10 flex justify-between items-center">
       <section className="flex flex-col justify-start text-white pl-4">
-        <h1 className="text-4xl" style={{ fontFamily: "Bruno Ace SC" }}>
+        <h1 className="text-5xl pb-2" style={{ fontFamily: "Bruno Ace SC" }}>
           Stay Updated
         </h1>
         <p className="font-extralight">
@@ -10,6 +10,12 @@ const ContactFooter = () => {
           <br />
           We respect your privacy and will never share your information with any third-party vendors.
         </p>
+      </section>
+      <section className="flex flex-row mr-10 items-center">
+        <input style={{ fontFamily: "Bruno Ace SC" }} placeholder="email" className="h-14 px-4 mr-2" />
+        <button className="bg-yellow-400 p-4" style={{ fontFamily: "Bruno Ace SC" }}>
+          Sign Up
+        </button>
       </section>
     </div>
   );
