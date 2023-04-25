@@ -13,7 +13,7 @@ const ContactFooter = () => {
       </section>
       <section className="flex flex-row mr-10 items-center">
         <input style={{ fontFamily: "Bruno Ace SC" }} placeholder="email" className="h-14 px-4 mr-2" />
-        <button className="bg-yellow-400 p-4" style={{ fontFamily: "Bruno Ace SC" }}>
+        <button className="bg-yellow-400 p-4 h-14" style={{ fontFamily: "Bruno Ace SC" }}>
           Sign Up
         </button>
       </section>
