@@ -16,5 +16,65 @@
     "description": "Get ready to crush your workouts and take your training to the Next LVL with our powerful and effective pre-workout supplement, designed to enhance your energy, focus, and endurance.",
     "imageURL": "https://user-images.githubusercontent.com/113729149/234182506-3118af90-4c30-4962-a472-f3b27c4265fe.png",
     "price": 21.99
+  },
+  {
+    "title": "Next LVL Vegan Creatine",
+    "description": "Maximize your athletic performance and gain more strength and power with our top-quality vegan creatine supplement from Next LVL.",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234341005-3c238d01-ad54-4444-92de-422a9ea88119.png",
+    "price": 34.99
+  },
+  {
+    "title": "Next LVL Vegan Protein",
+    "description": "Experience the Next LVL of fitness with our premium vegan protein powder that helps you build lean muscle, recover faster, and achieve your health goals.",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234340996-84c46d61-340c-4448-9ef9-5bc478bc7c16.png",
+    "price": 29.99
+  },
+  {
+    "title": "Next LVL Vegan Pre-Workout",
+    "description": "Get ready to crush your workouts and take your training to the Next LVL with our powerful and effective vegan pre-workout supplement, designed to enhance your energy, focus, and endurance.",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234340987-55859968-0687-4d55-9b4a-692e180fe30d.png",
+    "price": 26.99
+  },
+  {
+    "title": "Next LVL White T-Shirt",
+    "description": "This white shirt from Next LVL boasts a sleek and modern design, perfect for any sophisticated wardrobe.",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234347378-cc340f64-2d9c-4e27-8ba3-6ffa0ce23c55.png",
+    "price": 14.99
+  },
+  {
+    "title": "Next LVL Black T-Shirt",
+    "description": "This black shirt from Next LVL boasts a sleek and modern design, perfect for any sophisticated wardrobe.",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234347392-f9a3d24b-b404-4e2c-8632-685f0c5cfd20.png",
+    "price": 14.99
+  },
+  {
+    "title": "Next LVL White Sweater",
+    "description": "This white sweater from Next LVL boasts a sleek and modern design, perfect for any sophisticated wardrobe.",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234347405-d554f307-4ad5-4dde-9c6e-ce6df2c7bf0f.png",
+    "price": 24.99
+  },
+  {
+    "title": "Next LVL White Sweats",
+    "description": "These white sweats from Next LVL boasts a sleek and modern design, perfect for any sophisticated wardrobe.",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234347411-ef684d27-fd07-4d14-a667-c2ab853823d3.png",
+    "price": 21.99
+  },
+  {
+    "title": "Next LVL Black Sweats",
+    "description": "These black sweats from Next LVL boasts a sleek and modern design, perfect for any sophisticated wardrobe.",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234347422-0aa34c1d-8cbb-4651-93f5-23905199b27c.png",
+    "price": 21.99
+  },
+  {
+    "title": "Next LVL White Sports Bra",
+    "description": "This white sports bra from Next LVL boasts a sleek and modern design, perfect for any sophisticated wardrobe.",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234347430-9fe108ef-2e6a-49fd-a44a-b2290690b9d3.png",
+    "price": 17.99
+  },
+  {
+    "title": "Next LVL Black Sports Bra",
+    "description": "This black sports bra from Next LVL boasts a sleek and modern design, perfect for any sophisticated wardrobe.",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234347442-6c9a082a-ba82-4367-a8f4-3ee1fe5bdd6f.png",
+    "price": 17.99
   }
 ]

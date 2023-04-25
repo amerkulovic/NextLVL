@@ -13,7 +13,12 @@ const Header = () => {
     <header className="absolute z-10 w-full">
       <div className="flex flex-row justify-between items-center pl-5 mt-4">
         <Link to="/">
-          <img src={Logo} className="h-20 w-90 border-2 border-black" />
+          <div className="flex flex-col items-center">
+            <img src={Logo} className="h-20 w-90 border-2 border-black" />
+            <h1 className="text-white text-xl mt-1" style={{ fontFamily: "Bruno Ace SC" }}>
+              Fitness
+            </h1>
+          </div>
         </Link>
         <NavContainer />
       </div>
