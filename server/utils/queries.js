@@ -36,7 +36,7 @@ export const QUERY_CHECKOUT = gql`
       session
     }
   }
-  `;
+`;
 
 export const QUERY_PRODUCTS = gql`
   query Query {
@@ -46,6 +46,20 @@ export const QUERY_PRODUCTS = gql`
       description
       imageURL
       price
+    }
+  }
+`;
+export const QUERY_EXERCISES = gql`
+  query Query {
+    exercises {
+      _id
+      title
+      type
+      muscle
+      equipment
+      imageURL
+      difficulty
+      instructions
     }
   }
 `;

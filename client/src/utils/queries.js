@@ -41,3 +41,17 @@ export const QUERY_PRODUCTS = gql`
     }
   }
 `;
+export const QUERY_EXERCISES = gql`
+  query Exercises {
+    exercises {
+      _id
+      title
+      type
+      muscle
+      equipment
+      imageURL
+      difficulty
+      instructions
+    }
+  }
+`;

@@ -16,6 +16,16 @@ const typeDefs = gql`
     imageURL: String
     price: Float
   }
+  type Exercise {
+    _id: ID
+    title: String
+    type: String
+    muscle: String
+    equipment: String
+    imageURL: String
+    difficulty: String
+    instructions: String
+  }
 
   type Auth {
     token: ID!
@@ -25,6 +35,7 @@ const typeDefs = gql`
   type Query {
     profiles: [Profile]!
     products: [Product]!
+    exercises: [Exercise]!
     profile(profileId: ID!): Profile
     # Because we have the context functionality in place to check a JWT and decode its data, we can use a query that will always find and return the logged in user's data
     me: Profile

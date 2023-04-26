@@ -10,19 +10,16 @@ const exerciseSchema = new Schema({
   type: {
     type: String,
     required: true,
-    unique: true,
     trim: true,
   },
   muscle: {
     type: String,
     required: true,
-    unique: true,
     trim: true,
   },
   equipment: {
     type: String,
     required: true,
-    unique: true,
     trim: true,
   },
   imageURL: {
