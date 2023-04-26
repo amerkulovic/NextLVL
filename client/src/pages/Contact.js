@@ -39,7 +39,7 @@ const Contact = () => {
       <div className="pt-40 bg-[#2C2E43]" />
       <section className="bg-gradient-to-b from-[#2C2E43] from-7% via-white via-30% to-[#2C2E43] to-98%  py-10">
         <div className="flex flex-row justify-center">
-          <div className="bg-yellow-400 flex flex-col px-10">
+          <div className="bg-yellow-400 flex flex-col px-10 border-4 border-y-black border-l-black border-r-yellow-400">
             <h1 className="text-5xl mt-20 font-bold" style={{ fontFamily: "Bruno Ace SC" }}>
               Contact Us
             </h1>
@@ -54,7 +54,7 @@ const Contact = () => {
               <li className="py-0.5">(555)-555-5555</li>
             </ul>
           </div>
-          <form className="bg-yellow-400 text-center pt-20 pb-10 w-1/2 max-sm:w-full max-lg:w-3/4">
+          <form className="bg-yellow-400 text-center pt-20 pb-10 w-1/2 max-sm:w-full max-lg:w-3/4 border-4 border-y-black border-r-black border-l-yellow-400">
             <div className="py-3 flex flex-col justify-center items-center">
               <label className="text-black m-3 font-bold text-2xl" style={{ fontFamily: "Bruno Ace SC" }}>
                 Name:

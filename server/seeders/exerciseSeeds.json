@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Incline Hammer Curls",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "dumbbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234668750-435e3097-27a1-4895-b922-89eb9bed50bf.png",
+    "difficulty": "beginner",
+    "instructions": "Seat yourself on an incline bench with a dumbbell in each hand. You should pressed firmly against he back with your feet together. Allow the dumbbells to hang straight down at your side, holding them with a neutral grip. This will be your starting position. Initiate the movement by flexing at the elbow, attempting to keep the upper arm stationary. Continue to the top of the movement and pause, then slowly return to the start position."
+  },
+  {
+    "name": "Wide-Grip Barbell Curl",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "barbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234668641-1d971ad2-88b1-4a98-8117-4fd9bdf7ad75.png",
+    "difficulty": "beginner",
+    "instructions": "Stand up with your torso upright while holding a barbell at the wide outer handle. The palm of your hands should be facing forward. The elbows should be close to the torso. This will be your starting position. While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard. Slowly begin to bring the bar back to starting position as your breathe in. Repeat for the recommended amount of repetitions.  Variations:  You can also perform this movement using an E-Z bar or E-Z attachment hooked to a low pulley. This variation seems to really provide a good contraction at the top of the movement. You may also use the closer grip for variety purposes."
+  },
+  {
+    "name": "Hammer Curls",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "dumbbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234669054-69644ac9-c25e-41c6-a614-d87c726aa9f6.png",
+    "difficulty": "intermediate",
+    "instructions": "Stand up with your torso upright and a dumbbell on each hand being held at arms length. The elbows should be close to the torso. The palms of the hands should be facing your torso. This will be your starting position. Now, while holding your upper arm stationary, exhale and curl the weight forward while contracting the biceps. Continue to raise the weight until the biceps are fully contracted and the dumbbell is at shoulder level. Hold the contracted position for a brief moment as you squeeze the biceps. Tip: Focus on keeping the elbow stationary and only moving your forearm. After the brief pause, inhale and slowly begin the lower the dumbbells back down to the starting position. Repeat for the recommended amount of repetitions.  Variations: There are many possible variations for this movement. For instance, you can perform the exercise sitting down on a bench with or without back support and you can also perform it by alternating arms; first lift the right arm for one repetition, then the left, then the right, etc."
+  },
+  {
+    "name": "EZ-Bar Curl",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "e-z_curl_bar",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234669141-2e6d25db-4818-402a-a18b-c0b8058e6eb7.png",
+    "difficulty": "intermediate",
+    "instructions": "Stand up straight while holding an EZ curl bar at the wide outer handle. The palms of your hands should be facing forward and slightly tilted inward due to the shape of the bar. Keep your elbows close to your torso. This will be your starting position. Now, while keeping your upper arms stationary, exhale and curl the weights forward while contracting the biceps. Focus on only moving your forearms. Continue to raise the weight until your biceps are fully contracted and the bar is at shoulder level. Hold the top contracted position for a moment and squeeze the biceps. Then inhale and slowly lower the bar back to the starting position. Repeat for the recommended amount of repetitions.  Variations: You can also perform this movement using an E-Z attachment hooked to a low pulley. This variation seems to really provide a good contraction at the top of the movement. You may also use the closer grip for variety purposes."
+  },
+  {
+    "name": "Zottman Curl",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "None",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234669200-67b37c5d-b1e2-4305-b863-1a86393361dc.png",
+    "difficulty": "intermediate",
+    "instructions": "Stand up with your torso upright and a dumbbell in each hand being held at arms length. The elbows should be close to the torso. Make sure the palms of the hands are facing each other. This will be your starting position. While holding the upper arm stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Your wrist should rotate so that you have a supinated (palms up) grip. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps. Now during the contracted position, rotate your wrist until you now have a pronated (palms facing down) grip with the thumb at a higher position than the pinky. Slowly begin to bring the dumbbells back down using the pronated grip. As the dumbbells close your thighs, start rotating the wrist so that you go back to a neutral (palms facing your body) grip. Repeat for the recommended amount of repetitions."
+  },
+  {
+    "name": "Biceps Curl to Shoulder Press",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "dumbbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234669290-44e3d59f-ab9e-4522-a5b5-bf69ea463a33.png",
+    "difficulty": "beginner",
+    "instructions": "Begin in a standing position with a dumbbell in each hand. Your arms should be hanging at your sides with your palms facing forward. Look directly ahead, keeping your chest up, with your feet shoulder-width apart. This will be your starting position. Initiate the movement by flexing the elbows to curl the weight. Do not use momentum or flex through the shoulder, instead use a controlled motion. Execute the pressing movement by extending the arm, flexing and abducting the shoulder to rotate the arm as you press above your head. Pause at the top of the motion before reversing the movement to return to the starting position. Complete the desired number of repetitions before switching to the opposite side."
+  },
+  {
+    "name": "Barbell Curl",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "barbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234669597-0982d74f-dc6d-425e-a87b-d70c16591d3c.png",
+    "difficulty": "intermediate",
+    "instructions": "Stand up with your torso upright while holding a barbell at a shoulder-width grip. The palm of your hands should be facing forward and the elbows should be close to the torso. This will be your starting position. While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard. Slowly begin to bring the bar back to starting position as your breathe in. Repeat for the recommended amount of repetitions.  Variations:  You can also perform this movement using a straight bar attachment hooked to a low pulley. This variation seems to really provide a good contraction at the top of the movement. You may also use the closer grip for variety purposes."
+  },
+  {
+    "name": "Triceps Dip",
+    "type": "strength",
+    "muscle": "triceps",
+    "equipment": "body_only",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234669984-41b1413b-cb26-4c5e-97a4-0387fe021c5a.png",
+    "difficulty": "intermediate",
+    "instructions": "To get into the starting position, hold your body at arm's length with your arms nearly locked above the bars. Now, inhale and slowly lower yourself downward. Your torso should remain upright and your elbows should stay close to your body. This helps to better focus on tricep involvement. Lower yourself until there is a 90 degree angle formed between the upper arm and forearm. Then, exhale and push your torso back up using your triceps to bring your body back to the starting position. Repeat the movement for the prescribed amount of repetitions.  Variations: If you are new at this exercise and do not have the strength to perform it, use a dip assist machine if available. These machines use weight to help you push your bodyweight. Otherwise, a spotter holding your legs can help. More advanced lifters can add weight to the exercise by using a weight belt that allows the addition of weighted plates."
+  },
+  {
+    "name": "Decline EZ-bar Skullcrusher",
+    "type": "strength",
+    "muscle": "triceps",
+    "equipment": "e-z_curl_bar",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234670045-7a104e43-52e7-4760-a0d1-e12b5ae51fd1.png",
+    "difficulty": "intermediate",
+    "instructions": "Secure your legs at the end of the decline bench and slowly lay down on the bench. Using a close grip (a grip that is slightly less than shoulder width), lift the EZ bar from the rack and hold it straight over you with your arms locked and elbows in. The arms should be perpendicular to the floor. This will be your starting position. Tip: In order to protect your rotator cuff, it is best if you have a spotter help you lift the barbell off the rack. As you breathe in and you keep the upper arms stationary, bring the bar down slowly by moving your forearms in a semicircular motion towards you until you feel the bar slightly touch your forehead. Breathe in as you perform this portion of the movement. Lift the bar back to the starting position by contracting the triceps and exhaling. Repeat until the recommended amount of repetitions is performed.  Variations: You can use a straight bar or dumbbells to perform this movement. You can also perform it on a flat bench as well."
+  },
+  {
+    "name": "Dumbbell Floor Press",
+    "type": "powerlifting",
+    "muscle": "triceps",
+    "equipment": "dumbbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234670148-09890753-42bc-497c-84f3-4b77cdfb2fa0.png",
+    "difficulty": "intermediate",
+    "instructions": "Lay on the floor holding dumbbells in your hands. Your knees can be bent. Begin with the weights fully extended above you. Lower the weights until your upper arm comes in contact with the floor. You can tuck your elbows to emphasize triceps size and strength, or to focus on your chest angle your arms to the side. Pause at the bottom, and then bring the weight together at the top by extending through the elbows."
+  },
+  {
+    "name": "Cable V-bar Push-Down",
+    "type": "strength",
+    "muscle": "triceps",
+    "equipment": "cable",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234670226-a61bb0d6-0af8-4494-98ab-57a6bd16f46a.png",
+    "difficulty": "intermediate",
+    "instructions": "Attach a V-Bar to a high pulley and grab with an overhand grip (palms facing down) at shoulder width. Standing upright with the torso straight and a very small inclination forward, bring the upper arms close to your body and perpendicular to the floor. The forearms should be pointing up towards the pulley as they hold the bar. The thumbs should be higher than the small finger. This is your starting position. Using the triceps, bring the bar down until it touches the front of your thighs and the arms are fully extended perpendicular to the floor. The upper arms should always remain stationary next to your torso and only the forearms should move. Exhale as you perform this movement. After a second hold at the contracted position, bring the V-Bar slowly up to the starting point. Breathe in as you perform this step. Repeat for the recommended amount of repetitions.  Variations: There are many variations to this movement. For instance you can use an E-Z bar attachment as well as a straight cable bar attachment for different variations of the exercise. Also, you can attach a rope to the pulley as well as using a reverse grip on the bar exercises. Just like the Triceps Pushdown but with the V-Bar attachment."
+  },
+  {
+    "name": "Smith Machine Shrug",
+    "type": "strength",
+    "muscle": "traps",
+    "equipment": "machine",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234670410-b8ea0266-95ae-4c42-828b-4316b9c765cc.png",
+    "difficulty": "intermediate",
+    "instructions": "To begin, set the bar height on the smith machine around the middle of your thighs. Once the correct height is chosen and the bar is loaded, grab the bar using a pronated grip (palms facing you) shoulder width apart from each other. Lift the barbell up and fully extend your arms with your back straight. This is the starting position. While exhaling, elevate the bar by raising your shoulders until they come close to touching your ears. Hold the contraction for a second before lowering the bar back down to the starting position while inhaling. Repeat for the recommended amount of repetitions.  Variations:  This exercise can be performed using a squat rack with a barbell. However, be careful not to select a weight that is so heavy that it causes you to break good form as you do not have the support of the smith machine for this variation. Too much weight can harm your back. You can also use dumbbells to perform this exercise."
+  },
+  {
+    "name": "Standing Dumbbell Shrug",
+    "type": "strength",
+    "muscle": "traps",
+    "equipment": "dumbbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234670511-ffdbb9ef-804f-4d1a-87e5-244f6b6fbb43.png",
+    "difficulty": "intermediate",
+    "instructions": "Stand erect with a dumbbell on each hand (palms facing your torso), arms extended on the sides. Lift the dumbbells by elevating the shoulders as high as possible while you exhale. Hold the contraction at the top for a second. Tip: The arms should remain extended at all times. Refrain from using the biceps to help lift the dumbbells. Only the shoulders should be moving up and down. Lower the dumbbells back to the original position. Repeat for the recommended amount of repetitions.  Variations: You can perform this exercise with bands, barbells or cables. You can also use a single handle and work one side at a time."
+  },
+  {
+    "name": "Calf-Machine Shoulder Shrug",
+    "type": "strength",
+    "muscle": "traps",
+    "equipment": "machine",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234670626-3fef3e75-fb9b-4cc9-b8ed-263ad56fc90a.png",
+    "difficulty": "beginner",
+    "instructions": "Position yourself on the calf machine so that the shoulder pads are above your shoulders. Your torso should be straight with the arms extended normally by your side. This will be your starting position. Raise your shoulders up towards your ears as you exhale and hold the contraction for a full second. Slowly return to the starting position as you inhale. Repeat for the recommended amount of repetitions.  Variations: You can use dumbbells, barbells, smith machines and pulley machines to perform shrugging motions."
+  },
+  {
+    "name": "Barbell Shrug",
+    "type": "strength",
+    "muscle": "traps",
+    "equipment": "barbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234670816-0241a4c0-8591-4daa-9d3d-119b4e156c6a.png",
+    "difficulty": "intermediate",
+    "instructions": "Stand up straight with your feet at shoulder width as you hold a barbell with both hands in front of you using a pronated grip (palms facing the thighs). Tip: Your hands should be a little wider than shoulder width apart. You can use wrist wraps for this exercise for a better grip. This will be your starting position. Raise your shoulders up as far as you can go as you breathe out and hold the contraction for a second. Tip: Refrain from trying to lift the barbell by using your biceps. Slowly return to the starting position as you breathe in. Repeat for the recommended amount of repetitions.  Variations: You can also rotate your shoulders as you go up, going in a semicircular motion from front to rear. However this version is not good for people with shoulder problems. In addition, this exercise can be performed with the barbell behind the back, with dumbbells by the side, a smith machine or with a shrug machine."
+  },
+  {
+    "name": "Single-Leg Press",
+    "type": "strength",
+    "muscle": "quadriceps",
+    "equipment": "machine",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234671101-ebda9e62-7202-4c27-88d4-98c0a682191b.png",
+    "difficulty": "intermediate",
+    "instructions": "Load the sled to an appropriate weight. Seat yourself on the machine, planting one foot on the platform in line with your hip. Your free foot can be placed on the ground. Maintain good spinal position with your head and chest up. Supporting the weight, fully extend the knee and unlock the sled. This will be your starting position. Lower the weight by flexing the hip and knee, continuing as far as flexibility allows. Do not allow your lumbar to take the load by moving your pelvis. At the bottom of the motion pause briefly and then return to the starting position by extending the hip and knee. Complete all repetitions for one leg before switching to the other."
+  },
+  {
+    "name": "Barbell Full Squat",
+    "type": "strength",
+    "muscle": "quadriceps",
+    "equipment": "barbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234671274-61e18b75-8f78-4be2-9dde-237cbddb635c.png",
+    "difficulty": "intermediate",
+    "instructions": "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack just above shoulder level. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it. Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso. Step away from the rack and position your legs using a shoulder-width medium stance with the toes slightly pointed out. Keep your head up at all times and maintain a straight back. This will be your starting position. Begin to slowly lower the bar by bending the knees and sitting back with your hips as you maintain a straight posture with the head up. Continue down until your hamstrings are on your calves. Inhale as you perform this portion of the movement. Begin to raise the bar as you exhale by pushing the floor with the heel or middle of your foot as you straighten the legs and extend the hips to go back to the starting position. Repeat for the recommended amount of repetitions.  This type of squat allows a greater range of motion, and allows the trunk to maintain a more vertical position than other types of squats, due to foot position and the higher bar position."
+  },
+  {
+    "name": "Barbell Back Squat to Box",
+    "type": "powerlifting",
+    "muscle": "quadriceps",
+    "equipment": "barbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234671369-b3f64616-d481-438f-837e-da9da33e9403.png",
+    "difficulty": "intermediate",
+    "instructions": "The box squat allows you to squat to desired depth and develop explosive strength in the squat movement. Begin in a power rack with a box at the appropriate height behind you. Typically, you would aim for a box height that brings you to a parallel squat, but you can train higher or lower if desired. Begin by stepping under the bar and placing it across the back of the shoulders. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders. Remove the bar from the rack, creating a tight arch in your lower back, and step back into position. Place your feet wider for more emphasis on the back, glutes, adductors, and hamstrings, or closer together for more quad development. Keep your head facing forward. With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips until you are seated on the box. Ideally, your shins should be perpendicular to the ground. Pause when you reach the box, and relax the hip flexors. Never bounce off of a box. Keeping the weight on your heels and pushing your feet and knees out, drive upward off of the box as you lead the movement with your head. Continue upward, maintaining tightness head to toe."
+  },
+  {
+    "name": "Push-press",
+    "type": "olympic_weightlifting",
+    "muscle": "quadriceps",
+    "equipment": "barbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234671420-459db9b2-03b0-4a95-9175-e0fea21119ac.png",
+    "difficulty": "intermediate",
+    "instructions": "Beginning Position:  Use the floor-to-shoulder lifting technique described in the Power Clean exercise to move the bar from the floor to the shoulders.  Upward Movement Phase:  Slightly flex the hips and knees, keeping torso erect. Immediately follow with an explosive push upward by extending the knees. Keep torso erect and tensed. At maximum hip and knee extension, shift body weight to balls of feet and extend ankle joints. At maximum plantar flexion, push bar from the shoulders. Push the bar with the arms to a fully extended elbow position overhead.  Downward Movement Phase:  Lower bar to shoulders. Flex hips and knees slightly as bar touches shoulders. Straighten the hips and knees before the upward movement phase begins again.  Breathing:  Exhale through the sticking point of the upward movement phase. Inhale during the downward movement phase."
+  },
+  {
+    "name": "Barbell Deadlift",
+    "type": "strength",
+    "muscle": "hamstrings",
+    "equipment": "barbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234671578-3ee52a6a-f48b-4137-9e43-c8333ad5739f.png",
+    "difficulty": "intermediate",
+    "instructions": "Approach the bar so that it is centered over your feet. Your feet should be about hip-width apart. Bend at the hip to grip the bar at shoulder-width allowing your shoulder blades to protract. Typically, you would use an alternating grip. With your feet and your grip set, take a big breath and then lower your hips and flex the knees until your shins contact the bar. Look forward with your head. Keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar. Lower the bar by bending at the hips and guiding it to the floor."
+  },
+  {
+    "name": "Romanian Deadlift With Dumbbells",
+    "type": "strength",
+    "muscle": "hamstrings",
+    "equipment": "dumbbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234671629-65f70d17-1c84-4b36-8118-ee3a9891b3b2.png",
+    "difficulty": "beginner",
+    "instructions": "Begin in a standing position with a dumbbell in each hand. Ensure that your back is straight and stays that way for the duration of the exercise. Allow your arms to hang perpendicular to the floor, with the wrists pronated and the elbows pointed to your sides. This will be your starting position. Initiate the movement by flexing your hips, slowly pushing your butt as far back as you can. This should entail a horizontal movement of the hips, rather than a downward movement. The knees should only partially bend, and your weight should remain on your heels. Drive your butt back as far as you can, which should generate tension in your hamstrings as your hands approach knee level. Maintain an arch in your back throughout the exercise. When your hips cannot perform any further backward movement, pause, and then slowly return to the starting position by extending the hips."
+  },
+  {
+    "name": "Sumo Deadlift",
+    "type": "powerlifting",
+    "muscle": "hamstrings",
+    "equipment": "barbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234671766-12aa2b66-5d8a-4895-a526-6e6a2f24e3b8.png",
+    "difficulty": "beginner",
+    "instructions": "Begin with a bar loaded on the ground. Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip. Relax the shoulders, which in effect lengthens your arms. Take a breath, and then lower your hips, looking forward with your head with your chest up. Drive through the floor, spreading your feet apart, with your weight on the back half of your feet. Extend through the hips and knees. As the bar passes through the knees, lean back and drive the hips into the bar, pulling your shoulder blades together. Return the weight to the ground by bending at the hips and controlling the weight on the way down."
+  },
+  {
+    "name": "Snatch Deadlift",
+    "type": "olympic_weightlifting",
+    "muscle": "hamstrings",
+    "equipment": "barbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234672131-92adca15-ad31-430e-82c9-c9ee15483efb.png",
+    "difficulty": "beginner",
+    "instructions": "The snatch deadlift strengthens the first pull of the snatch. Begin with a wide snatch grip with the barbell placed on the platform. The feet should be directly under the hips, with the feet turned out. Squat down to the bar, keeping the back in absolute extension with the head facing forward. Initiate the movement by driving through the heels, raising the hips. The back angle should remain the same until the bar passes the knees. At that point, drive your hips through the bar as you lay back. Return the bar to the platform by reversing the motion."
+  },
+  {
+    "name": "Barbell Glute Bridge",
+    "type": "powerlifting",
+    "muscle": "glutes",
+    "equipment": "barbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234672234-bd89b3c0-c7ad-4e00-a84a-ee1e748f21b9.png",
+    "difficulty": "intermediate",
+    "instructions": "Begin seated on the ground with a loaded barbell over your legs. Using a fat bar or having a pad on the bar can greatly reduce the discomfort caused by this exercise. Roll the bar so that it is directly above your hips, and lay down flat on the floor. Begin the movement by driving through with your heels, extending your hips vertically through the bar. Your weight should be supported by your upper back and the heels of your feet. Extend as far as possible, then reverse the motion to return to the starting position."
+  },
+  {
+    "name": "Barbell Hip Thrust",
+    "type": "powerlifting",
+    "muscle": "glutes",
+    "equipment": "barbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234672309-9c697341-dc68-4e25-ab5b-b02486586467.png",
+    "difficulty": "intermediate",
+    "instructions": "Begin seated on the ground with a bench directly behind you. Have a loaded barbell over your legs. Using a fat bar or having a pad on the bar can greatly reduce the discomfort caused by this exercise. Roll the bar so that it is directly above your hips, and lean back against the bench so that your shoulder blades are near the top of it. Begin the movement by driving through your feet, extending your hips vertically through the bar. Your weight should be supported by your shoulder blades and your feet. Extend as far as possible, then reverse the motion to return to the starting position."
+  },
+  {
+    "name": "Single-leg cable hip extension",
+    "type": "strength",
+    "muscle": "glutes",
+    "equipment": "cable",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234672461-2fbb0262-34e4-4e8f-82a3-d85537277e15.png",
+    "difficulty": "intermediate",
+    "instructions": "Hook a leather ankle cuff to a low cable pulley and then attach the cuff to your ankle. Face the weight stack from a distance of about two feet, grasping the steel frame for support. While keeping your knees and hips bent slightly and your abs tight, contract your glutes to slowly \"kick\" the working leg back in a semicircular arc as high as it will comfortably go as you breathe out. Tip: At full extension, squeeze your glutes for a second in order to achieve a peak contraction. Now slowly bring your working leg forward, resisting the pull of the cable until you reach the starting position. Repeat for the recommended amount of repetitions. Switch legs and repeat the movement for the other side.  Variations: You can perform this exercise with exercise bands."
+  },
+  {
+    "name": "Smith Machine Calf Raise",
+    "type": "strength",
+    "muscle": "calves",
+    "equipment": "machine",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234672700-63ea0423-b09a-4c91-9f0b-e3b928aa8b77.png",
+    "difficulty": "intermediate",
+    "instructions": "Place a block or weight plate below the bar on the Smith machine. Set the bar to a position that best matches your height. Once the correct height is chosen and the bar is loaded, step onto the plates with the balls of your feet and place the bar on the back of your shoulders. Take the bar with both hands facing forward. Rotate the bar to unrack it. This will be your starting position. Raise your heels as high as possible by pushing off of the balls of your feet, flexing your calf at the top of the contraction. Your knees should remain extended. Hold the contracted position for a second before you start to go back down. Return slowly to the starting position as you breathe in while lowering your heels. Repeat for the recommended amount of repetitions."
+  },
+  {
+    "name": "Standing Calf Raises",
+    "type": "strength",
+    "muscle": "calves",
+    "equipment": "machine",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234672780-2034c9c3-e728-4ff9-b395-7fde714d9c17.png",
+    "difficulty": "beginner",
+    "instructions": "Adjust the padded lever of the calf raise machine to fit your height. Place your shoulders under the pads provided and position your toes facing forward (or using any of the two other positions described at the beginning of the chapter). The balls of your feet should be secured on top of the calf block with the heels extending off it. Push the lever up by extending your hips and knees until your torso is standing erect. The knees should be kept with a slight bend; never locked. Toes should be facing forward, outwards or inwards as described at the beginning of the chapter. This will be your starting position. Raise your heels as you breathe out by extending your ankles as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position by a second before you start to go back down. Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched. Repeat for the recommended amount of repetitions.  Caution: If you suffer from lower back problems, a better exercise is the calf press as during a standing calf raise the back has to support the weight being lifted. Also, maintain your back straight and stationary at all times. Rounding of the back can cause lower back injury. Variations: There are several other ways to perform a standing calf raise. A barbell instead of a machine can be used instead as well as dumbbells, one leg or two legs at a time. Refer to the exercise descriptions of these movements below. A smith machine can be used for calf raises as well."
+  },
+  {
+    "name": "Dumbbell Bench Press",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "dumbbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234673097-f7ffcf9e-0f62-45ae-baba-4e887646f664.png",
+    "difficulty": "intermediate",
+    "instructions": "Lie down on a flat bench with a dumbbell in each hand resting on top of your thighs. The palms of your hands will be facing each other. Then, using your thighs to help raise the dumbbells up, lift the dumbbells one at a time so that you can hold them in front of you at shoulder width. Once at shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. The dumbbells should be just to the sides of your chest, with your upper arm and forearm creating a 90 degree angle. Be sure to maintain full control of the dumbbells at all times. This will be your starting position. Then, as you breathe out, use your chest to push the dumbbells up. Lock your arms at the top of the lift and squeeze your chest, hold for a second and then begin coming down slowly. Tip: Ideally, lowering the weight should take about twice as long as raising it. Repeat the movement for the prescribed amount of repetitions of your training program.  Caution: When you are done, do not drop the dumbbells next to you as this is dangerous to your rotator cuff in your shoulders and others working out around you. Just lift your legs from the floor bending at the knees, twist your wrists so that the palms of your hands are facing each other and place the dumbbells on top of your thighs. When both dumbbells are touching your thighs simultaneously push your upper torso up (while pressing the dumbbells on your thighs) and also perform a slight kick forward with your legs (keeping the dumbbells on top of the thighs). By doing this combined movement, momentum will help you get back to a sitting position with both dumbbells still on top of your thighs. At this moment you can place the dumbbells on the floor. Variations: Another variation of this exercise is to perform it with the palms of the hands facing each other. Also, you can perform the exercise with the palms facing each other and then twisting the wrist as you lift the dumbbells so that at the top of the movement the palms are facing away from the body. I personally do not use this variation very often as it seems to be hard on my shoulders."
+  },
+  {
+    "name": "Pushups",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "body_only",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234673138-cee9fc2e-7590-4377-aa3d-4690e6e202c5.png",
+    "difficulty": "intermediate",
+    "instructions": "Lie on the floor face down and place your hands about 36 inches apart while holding your torso up at arms length. Next, lower yourself downward until your chest almost touches the floor as you inhale. Now breathe out and press your upper body back up to the starting position while squeezing your chest. After a brief pause at the top contracted position, you can begin to lower yourself downward again for as many repetitions as needed.  Variations: If you are new at this exercise and do not have the strength to perform it, you can either bend your legs at the knees to take off resistance or perform the exercise against the wall instead of the floor. For the most advanced lifters, you can place your feet at a high surface such as a bench in order to increase the resistance and to target the upper chest more."
+  },
+  {
+    "name": "Close-Grip Bench Press",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "barbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234673231-622e85ea-242c-4951-b383-26fd112f5b9b.png",
+    "difficulty": "intermediate",
+    "instructions": "Lie back on a flat bench. Using a close grip (around shoulder width), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position. As you breathe in, come down slowly until you feel the bar on your middle chest. Tip: Make sure that - as opposed to a regular bench press - you keep the elbows close to the torso at all times in order to maximize triceps involvement. After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your triceps muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up. Repeat the movement for the prescribed amount of repetitions. When you are done, place the bar back in the rack.  Caution: If you are new at this exercise, it is advised that you use a spotter. If no spotter is available, then be conservative with the amount of weight used. Also, beware of letting the bar drift too far forward. You want the bar to fall on your middle chest and nowhere else. Variations: This exercise can also be performed with an e-z bar using the inner handle as well as dumbbells, in which case the palms of the hands will be facing each other."
+  },
+  {
+    "name": "Dumbbell Flys",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "dumbbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234673270-f709adbe-1f17-4fa9-9dfb-aa321020b23e.png",
+    "difficulty": "intermediate",
+    "instructions": "Lie down on a flat bench with a dumbbell on each hand resting on top of your thighs. The palms of your hand will be facing each other. Then using your thighs to help raise the dumbbells, lift the dumbbells one at a time so you can hold them in front of you at shoulder width with the palms of your hands facing each other. Raise the dumbbells up like you're pressing them, but stop and hold just before you lock out. This will be your starting position. With a slight bend on your elbows in order to prevent stress at the biceps tendon, lower your arms out at both sides in a wide arc until you feel a stretch on your chest. Breathe in as you perform this portion of the movement. Tip: Keep in mind that throughout the movement, the arms should remain stationary; the movement should only occur at the shoulder joint. Return your arms back to the starting position as you squeeze your chest muscles and breathe out. Tip: Make sure to use the same arc of motion used to lower the weights. Hold for a second at the contracted position and repeat the movement for the prescribed amount of repetitions.  Variations: You may want to use a palms facing forward version for different stimulation."
+  },
+  {
+    "name": "Incline Dumbbell Bench Press",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "dumbbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234673357-538dd1ca-479f-4302-8856-c12ee5de10f8.png",
+    "difficulty": "intermediate",
+    "instructions": "Lie back on an incline bench with a dumbbell in each hand atop your thighs. The palms of your hands will be facing each other. Then, using your thighs to help push the dumbbells up, lift the dumbbells one at a time so that you can hold them at shoulder width. Once you have the dumbbells raised to shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. This will be your starting position. Be sure to keep full control of the dumbbells at all times. Then breathe out and push the dumbbells up with your chest. Lock your arms at the top, hold for a second, and then start slowly lowering the weight. Tip Ideally, lowering the weights should take about twice as long as raising them. Repeat the movement for the prescribed amount of repetitions. When you are done, place the dumbbells back on your thighs and then on the floor. This is the safest manner to release the dumbbells.  Variations: You can use several angles on the incline bench if the bench you are using is adjustable. Another variation of this exercise is to perform it with the palms of the hands facing each other. Also, you can perform the exercise with the palms facing each other and then twisting the wrist as you lift the dumbbells so that at the top of the movement the palms are facing away from the body. I personally do not use this variation very often as it seems to be hard on my shoulders."
+  },
+  {
+    "name": "Weighted Pull-Up",
+    "type": "strength",
+    "muscle": "lats",
+    "equipment": "other",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234673592-039209a4-90ad-41c9-8c93-ab09d3a7a01a.png",
+    "difficulty": "intermediate",
+    "instructions": "Attach a weight to a dip belt and secure it around your waist. Grab the pull-up bar with the palms of your hands facing forward. For a medium grip, your hands should be spaced at shoulder width. Both arms should be extended in front of you holding the bar at the chosen grip. You'll want to bring your torso back about 30 degrees while creating a curvature in your lower back and sticking your chest out. This will be your starting position. Now, exhale and pull your torso up until your head is above your hands. Concentrate on squeezing your shoulder blades back and down as you reach the top contracted position. After a brief moment at the top contracted position, inhale and slowly lower your torso back to the starting position with your arms extended and your lats fully stretched."
+  },
+  {
+    "name": "Muscle Up",
+    "type": "strength",
+    "muscle": "lats",
+    "equipment": "body_only",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234673747-004208a9-0622-4c84-b6b6-49ee86df84aa.png",
+    "difficulty": "intermediate",
+    "instructions": "Grip the rings using a false grip, with the base of your palms on top of the rings. Initiate a pull up by pulling the elbows down to your side, flexing the elbows. As you reach the top position of the pull-up, pull the rings to your armpits as you roll your shoulders forward, allowing your elbows to move straight back behind you. This puts you into the proper position to continue into the dip portion of the movement. Maintaining control and stability, extend through the elbow to complete the motion. Use care when lowering yourself to the ground."
+  },
+  {
+    "name": "Close-Grip Front Lat Pulldown",
+    "type": "strength",
+    "muscle": "lats",
+    "equipment": "cable",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234673823-86218e67-7f96-4f78-9f7a-4b2c151c06f3.png",
+    "difficulty": "intermediate",
+    "instructions": "Sit down on a pull-down machine with a wide bar attached to the top pulley. Make sure that you adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar. Grab the bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than your shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width. As you have both arms extended in front of you - while holding the bar at the chosen grip width - bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position. As you breathe out, bring the bar down until it touches your upper chest by drawing the shoulders and the upper arms down and back. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary (only the arms should move). The forearms should do no other work except for holding the bar; therefore do not try to pull the bar down using the forearms. After a second in the contracted position, while squeezing your shoulder blades together, slowly raise the bar back to the starting position when your arms are fully extended and the lats are fully stretched. Inhale during this portion of the movement. 6. Repeat this motion for the prescribed amount of repetitions.  Variations: The behind-the-neck variation is not recommended as it can be hard on the rotator cuff due to the hyperextension created by bringing the bar behind the neck."
+  },
+  {
+    "name": "Back Extension",
+    "type": "strength",
+    "muscle": "lower_back",
+    "equipment": "body_only",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234674027-1c2ea9e2-b042-42ce-91db-615a4d40aacd.png",
+    "difficulty": "intermediate",
+    "instructions": "Lie face down on a hyperextension bench, tucking your ankles securely under the footpads. Adjust the upper pad if possible so your upper thighs lie flat across the wide pad, leaving enough room for you to bend at the waist without any restriction. With your body straight, cross your arms in front of you (my preference) or behind your head. This will be your starting position. Tip: You can also hold a weight plate for extra resistance in front of you under your crossed arms. Start bending forward slowly at the waist as far as you can while keeping your back flat. Inhale as you perform this movement. Keep moving forward until you feel a nice stretch on the hamstrings and you can no longer keep going without a rounding of the back. Tip: Never round the back as you perform this exercise. Also, some people can go farther than others. The key thing is that you go as far as your body allows you to without rounding the back. Slowly raise your torso back to the initial position as you inhale. Tip: Avoid the temptation to arch your back past a straight line. Also, do not swing the torso at any time in order to protect the back from injury. Repeat for the recommended amount of repetitions.  Variations: This exercise can also be performed without a hyperextension bench, but in this case you will need a spotter. Also, a similar exercise to this one is the good morning and the stiff-legged deadlift."
+  },
+  {
+    "name": "Deadlift with Bands",
+    "type": "powerlifting",
+    "muscle": "lower_back",
+    "equipment": "barbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234674193-1ed9596f-5f98-4de5-b825-9cb5b86c3045.png",
+    "difficulty": "beginner",
+    "instructions": "To deadlift with short bands, simply loop them over the bar before you start, and step into them to set up. For long bands, they will need to be anchored to a secure base, such as heavy dumbbells or a rack. Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Ensure that the bands are under the back half of your foot (for short bands), directly where you are driving into the floor. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an overhand grip or an over/under grip on heavier sets.2.  With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar. Lower the bar by bending at the hips and guiding it to the floor."
+  },
+  {
+    "name": "T-Bar Row with Handle",
+    "type": "strength",
+    "muscle": "middle_back",
+    "equipment": "other",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234674433-f883dd0c-c36b-48ed-a61d-c337ba27b483.png",
+    "difficulty": "intermediate",
+    "instructions": "Position a bar into a landmine or in a corner to keep it from moving. Load an appropriate weight onto your end. Stand over the bar, and position a Double D row handle around the bar next to the collar. Using your hips and legs, rise to a standing position. Assume a wide stance with your hips back and your chest up. Your arms should be extended. This will be your starting position. Pull the weight to your upper abdomen by retracting the shoulder blades and flexing the elbows. Do not jerk the weight or cheat during the movement. After a brief pause, return to the starting position."
+  },
+  {
+    "name": "Reverse-Grip Bent-Over Row",
+    "type": "strength",
+    "muscle": "middle_back",
+    "equipment": "barbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234674518-6aa50734-50d4-49ae-b64c-f6d3c84bc069.png",
+    "difficulty": "intermediate",
+    "instructions": "Stand erect while holding a barbell with a supinated grip (palms facing up). Bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The barbell should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position. While keeping the torso stationary, lift the barbell as you breathe out, keeping the elbows close to the body and not doing any force with the forearm other than holding the weights. On the top contracted position, squeeze the back muscles and hold for a second. Slowly lower the weight again to the starting position as you inhale. Repeat for the recommended amount of repetitions.  Caution:  This exercise is not recommended for people with back problems. A Low Pulley Row is a better choice for people with back issues. Also, just like with the bent knee dead-lift, if you have a healthy back, ensure perfect form and never slouch the back forward as this can cause back injury. Be cautious as well with the weight used; in case of doubt, use less weight rather than more.  Variations: You can perform the same exercise using a pronated (palms facing out) grip or using dumbbells."
+  },
+  {
+    "name": "One-Arm Dumbbell Row",
+    "type": "strength",
+    "muscle": "middle_back",
+    "equipment": "dumbbell",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234674600-630e1e08-695b-4f5a-952b-9c8b52d5d425.png",
+    "difficulty": "intermediate",
+    "instructions": "Choose a flat bench and place a dumbbell on each side of it. Place the right leg on top of the end of the bench, bend your torso forward from the waist until your upper body is parallel to the floor, and place your right hand on the other end of the bench for support. Use the left hand to pick up the dumbbell on the floor and hold the weight while keeping your lower back straight. The palm of the hand should be facing your torso. This will be your starting position. Pull the resistance straight up to the side of your chest, keeping your upper arm close to your side and keeping the torso stationary. Breathe out as you perform this step. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. Also, make sure that the force is performed with the back muscles and not the arms. Finally, the upper torso should remain stationary and only the arms should move. The forearms should do no other work except for holding the dumbbell; therefore do not try to pull the dumbbell up using the forearms. Lower the resistance straight down to the starting position. Breathe in as you perform this step. Repeat the movement for the specified amount of repetitions. Switch sides and repeat again with the other arm.  Variations: One-arm rows can also be performed using a high pulley or a low pulley instead of a dumbbell."
+  },
+  {
+    "name": "Seated Cable Rows",
+    "type": "strength",
+    "muscle": "middle_back",
+    "equipment": "cable",
+    "imageURL": "https://user-images.githubusercontent.com/113729149/234674710-bd5bdb51-0a28-4632-89e6-01acfa8e37d4.png",
+    "difficulty": "intermediate",
+    "instructions": "For this exercise you will need access to a low pulley row machine with a V-bar. Note: The V-bar will enable you to have a neutral grip where the palms of your hands face each other. To get into the starting position, first sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked. Lean over as you keep the natural alignment of your back and grab the V-bar handles. With your arms extended pull back until your torso is at a 90-degree angle from your legs. Your back should be slightly arched and your chest should be sticking out. You should be feeling a nice stretch on your lats as you hold the bar in front of you. This is the starting position of the exercise. Keeping the torso stationary, pull the handles back towards your torso while keeping the arms close to it until you touch the abdominals. Breathe out as you perform that movement. At that point you should be squeezing your back muscles hard. Hold that contraction for a second and slowly go back to the original position while breathing in. Repeat for the recommended amount of repetitions.  Caution: Avoid swinging your torso back and forth as you can cause lower back injury by doing so. Variations: You can use a straight bar instead of a V-Bar and perform with a pronated grip (palms facing down-forward) or a supinated grip (palms facing up-reverse grip)."
+  }
+]
