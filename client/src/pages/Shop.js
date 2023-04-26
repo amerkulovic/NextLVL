@@ -23,13 +23,13 @@ const Shop = (props) => {
             <h1 className="text-3xl text-center text-yellow-400 my-3 font-bold">Your Cart</h1>
             {cartProducts.map((item, index) => (
               <div className="flex flex-wrap justify-between my-3">
-                <div>
+                <div className="my-2">
                   <h1 className="font-bold text-lg" style={{ fontFamily: "Bruno Ace SC" }}>
                     {item.title}
                   </h1>
                   <div>${item.price}</div>
                   <button
-                    className="text-white bg-red-400 hover:bg-red-500 font-light text-sm px-2 py-1.5 text-center mt-1"
+                    className="text-white bg-red-400 hover:bg-red-500 font-light text-sm px-2 py-1.5 text-center mt-4"
                     onClick={() => {
                       setCartProducts(cartProducts.filter((item) => item.id !== cartProducts[index].id));
                     }}
@@ -37,7 +37,7 @@ const Shop = (props) => {
                     Remove
                   </button>
                 </div>
-                <img style={{ height: "200px", width: "180px" }} src={item.image} alt="product image" />
+                <img style={{ height: "200px", width: "160px" }} src={item.image} alt="product image" />
               </div>
             ))}
             <div className="flex justify-between mt-3 items-center">

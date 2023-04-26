@@ -5,16 +5,10 @@ import homeLogo from "../images/arnold-pose.jpeg";
 import stretching from "../images/women-stretching.jpg";
 import weights from "../images/weights.jpg";
 import lifting from "../images/man-lifting.jpg";
-// import { useQuery } from "@apollo/client";
-// import { QUERY_PROFILES } from "../utils/queries";
 
 const Home = () => {
-  // const { loading, data } = useQuery(QUERY_PROFILES);
-  // const profiles = data?.profiles || [];
-
   return (
     <>
-      {/* bg-gradient-to-r from-[#2C2E43] via-[#595260] to-[#595260] */}
       <div className="bg-gradient-to-b from-black via-black to-yellow-400 overflow-hidden">
         <img className="opacity-50" style={{ height: "700px", width: "100%" }} src={homeLogo} />
       </div>

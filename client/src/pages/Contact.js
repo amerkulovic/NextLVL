@@ -43,12 +43,12 @@ const Contact = () => {
             <h1 className="text-5xl mt-20 font-bold" style={{ fontFamily: "Bruno Ace SC" }}>
               Contact Us
             </h1>
-            <p className="py-8">
+            <p className="py-8 font-light">
               A better future is possible.
               <br /> Contact us to learn more about our mission and work,
               <br /> or to become involved and achieve your fitness goal!
             </p>
-            <ul className="pt-20">
+            <ul className="pt-20 font-light">
               <li className="py-0.5">NextLVL@gmail.com</li>
               <li className="py-0.5">123 Level Up Street, Chicago IL</li>
               <li className="py-0.5">(555)-555-5555</li>
