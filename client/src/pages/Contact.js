@@ -59,13 +59,13 @@ const Contact = () => {
               <label className="text-black m-3 font-bold text-2xl" style={{ fontFamily: "Bruno Ace SC" }}>
                 Name:
               </label>
-              <input type="text" className={nameStyling} onChange={nameInputHandler} />
+              <input type="text" className={nameStyling} style={{ fontFamily: "Bruno Ace SC" }} onChange={nameInputHandler} />
             </div>
             <div className="py-3 flex flex-col justify-center items-center">
               <label className="text-black m-3 font-bold text-2xl" style={{ fontFamily: "Bruno Ace SC" }}>
                 Email:
               </label>
-              <input type="email" className={emailStyling} onChange={emailInputHandler} />
+              <input type="email" className={emailStyling} style={{ fontFamily: "Bruno Ace SC" }} onChange={emailInputHandler} />
             </div>
             <div className="py-3 flex flex-col justify-center items-center">
               <label className="text-black m-3 font-bold text-2xl" style={{ fontFamily: "Bruno Ace SC" }}>

@@ -1,0 +1,49 @@
+.animation {
+  animation: slide-down 800ms ease-out forwards;
+}
+
+.side-animation {
+  animation: slide 800ms ease-out forwards;
+}
+
+.right-side-animation {
+  animation: right-slide 800ms ease-out forwards;
+}
+
+.scrollbar {
+  overflow-y: scroll;
+  height: 250px;
+}
+
+@keyframes slide-down {
+  from {
+    opacity: 0;
+    transform: translateY(-3rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slide {
+  from {
+    opacity: 0;
+    transform: translateX(-3rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes right-slide {
+  from {
+    opacity: 0;
+    transform: translateX(3rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
