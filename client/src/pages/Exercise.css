@@ -1,0 +1,14 @@
+.filter-btn:hover ~ .filter-options {
+  display: flex;
+  flex-direction: column;
+}
+
+.filter-options {
+  display: none;
+  z-index: 1;
+}
+
+.filter-options:hover {
+  display: flex;
+  flex-direction: column;
+}
