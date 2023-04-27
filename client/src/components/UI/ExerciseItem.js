@@ -4,7 +4,7 @@ const ExerciseItem = (props) => {
   return (
     <>
       <div class="w-full max-w-sm bg-white border-2 border-yellow-400 shadow my-4 animation">
-        <div className="flex flex-col text-center justify-center px-3">
+        <div className="flex flex-col text-center items-center px-3">
           <h1 className="text-2xl font-semibold text-black pt-4 pb-2" style={{ fontFamily: "Bruno Ace SC" }}>
             {props.title}
           </h1>

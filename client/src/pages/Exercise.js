@@ -13,7 +13,7 @@ const Exercise = () => {
   const filterExercises = (event) => {
     const value = event.target.value;
 
-    setFilteredExercises((filteredExercises = exercises.filter((exercise) => exercise.muscle === value)));
+    setFilteredExercises(exercises.filter((exercise) => exercise.muscle === value));
   };
 
   return (
