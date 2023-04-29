@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import About from "./pages/About";
 import Trainers from "./pages/Trainers";
+import TrainerPage from "./pages/TrainerPage";
 import Exercise from "./pages/Exercise";
 import Home from "./pages/Home";
 import Profile from "./pages/Profile";
@@ -47,6 +48,7 @@ function App() {
               <Route path="/" element={<Home />} />
               <Route path="/about" element={<About />} />
               <Route path="/trainers" element={<Trainers />} />
+              <Route path="/trainers/:name" element={<TrainerPage />} />
               <Route path="/exercises" element={<Exercise />} />
               <Route path="/shop" element={<Shop />} />
               <Route path="/contact" element={<Contact />} />
