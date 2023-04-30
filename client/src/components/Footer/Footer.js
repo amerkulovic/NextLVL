@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <>
       <ContactFooter />
-      <footer className="bg-[#2C2E43] flex flex-wrap justify-between items-center pl-5 py-5">
+      <footer className="bg-[#2C2E43] flex flex-wrap justify-between max-sm:justify-center items-center pl-5 py-5">
         <section className="flex flex-row">
           <FooterSection header="Discover" item1="About" item1link="/about" item2="Trainers" item2link="/trainers" item3="Exercises" item3link="/exercises" item4="Shop" item4link="/shop" item5="Contact" item5link="/contact" />
           <FooterSection header="Contact" item1="NextLVL@gmail.com" item2="123 Level Up Street, Chicago IL" item3="(555)-555-5555" />
