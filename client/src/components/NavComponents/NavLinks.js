@@ -1,23 +1,37 @@
 import { Link } from "react-router-dom";
 
-const NavLinks = () => {
+const NavLinks = (props) => {
+  let styling = "mx-1 my-4 max-lg:my-0 p-2";
+
+  props.isMobile ? (styling += "py-4 p-7 bg-[#FFD523] text-black text-center") : (styling = "mx-1 my-4 p-2");
+
   return (
     <>
-      <ul className="flex flex-row text-xl text-white font-extralight" style={{ fontFamily: "Bruno Ace SC" }}>
+      <ul className="flex flex-row max-lg:flex-col text-xl text-white font-extralight" style={{ fontFamily: "Bruno Ace SC" }}>
         <Link to="/about">
-          <li className="mx-1 my-4 p-2">About</li>
+          <li className={styling} onClick={() => props.isMobile && props.closeMobileMenu()}>
+            About
+          </li>
         </Link>
         <Link to="/trainers">
-          <li className="mx-1 my-4 p-2">Trainers</li>
+          <li className={styling} onClick={() => props.isMobile && props.closeMobileMenu()}>
+            Trainers
+          </li>
         </Link>
         <Link to="/exercises">
-          <li className="mx-1 my-4 p-2">Exercises</li>
+          <li className={styling} onClick={() => props.isMobile && props.closeMobileMenu()}>
+            Exercises
+          </li>
         </Link>
         <Link to="/shop">
-          <li className="mx-1 my-4 p-2">Shop</li>
+          <li className={styling} onClick={() => props.isMobile && props.closeMobileMenu()}>
+            Shop
+          </li>
         </Link>
         <Link to="/contact">
-          <li className="ml-1 my-4 p-2">Contact</li>
+          <li className={styling} onClick={() => props.isMobile && props.closeMobileMenu()}>
+            Contact
+          </li>
         </Link>
       </ul>
     </>

@@ -3,6 +3,7 @@ import NavContainer from "../NavComponents/NavContainer";
 import { Link } from "react-router-dom";
 import Logo from "../../images/Logo.png";
 import Auth from "../../utils/auth";
+import MobileNav from "../NavComponents/MobileNav";
 
 const Header = () => {
   const logout = (event) => {
@@ -11,7 +12,7 @@ const Header = () => {
   };
   return (
     <header className="absolute z-10 w-full">
-      <div className="flex flex-row justify-between items-center pl-5 mt-4">
+      <div className="flex flex-row justify-between pl-5 mt-4">
         <Link to="/">
           <div className="flex flex-col items-center">
             <img src={Logo} className="h-20 w-90 border-2 border-black" />
@@ -20,6 +21,7 @@ const Header = () => {
             </h1>
           </div>
         </Link>
+        <MobileNav />
         <NavContainer />
       </div>
     </header>

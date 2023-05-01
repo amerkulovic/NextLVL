@@ -18,6 +18,8 @@
     "tailwindcss": "^3.3.1"
   },
   "dependencies": {
+    "react-icons": "^4.8.0",
+    "react-ionicons": "^4.2.0",
     "uuidv4": "^6.2.13"
   }
 }
