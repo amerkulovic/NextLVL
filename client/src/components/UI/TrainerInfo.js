@@ -1,8 +1,8 @@
 const TrainerInfo = (props) => {
   return (
-    <div className="flex flex-row justify-center">
-      <img src={props.image} className="border-2 border-yellow-400 mr-5 w-4/12" style={{ height: "700px" }} />
-      <section className="flex flex-col text-center bg-white w-7/12 border-2 border-yellow-400 opacity-80">
+    <div className="flex flex-row max-md:flex-col max-md:items-center justify-center">
+      <img src={props.image} className="border-2 border-yellow-400 mr-5 w-4/12 max-lg:hidden" style={{ height: "700px" }} />
+      <section className="flex flex-col text-center bg-white w-7/12 max-lg:w-11/12 border-2 border-yellow-400 opacity-80">
         <div className="mx-10 pt-10">
           <h1 className="text-5xl font-bold" style={{ fontFamily: "Bruno Ace SC" }}>
             {props.name}
