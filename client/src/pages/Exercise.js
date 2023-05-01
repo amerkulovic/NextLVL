@@ -19,11 +19,11 @@ const Exercise = () => {
   return (
     <>
       <div className="pt-40 bg-[#2C2E43] flex justify-end">
-        <div className="flex flex-col text-center items-center mr-11 mb-2">
+        <div className="flex flex-col text-center items-center mr-11 mb-2 relative">
           <button className="bg-yellow-400 py-3 px-10 relative filter-btn" style={{ fontFamily: "Bruno Ace SC" }}>
             Filter
           </button>
-          <section className="bg-white px-6 pt-2 flex flex-col font-light absolute bottom-44 filter-options border-2 border-b-black border-x-black border-t-yellow-400">
+          <section className="bg-white px-6 pt-2 flex flex-col font-light absolute top-12 filter-options border-2 border-b-black border-x-black border-t-yellow-400">
             <button className="pt-0.5" onClick={() => setFilteredExercises([...exercises])}>
               All
             </button>
