@@ -1,7 +1,7 @@
 const ShopItem = (props) => {
   return (
     <>
-      <div class="w-full max-w-sm bg-white border-2 border-yellow-400 hover:border-green-400 shadow my-4 animation">
+      <div class="w-full max-w-sm bg-white border-2 border-yellow-400 hover:border-green-400 shadow my-4 mx-0.5 animation">
         <div className="flex justify-center">
           <img class="p-4 h-96" src={props.image} alt="product image" />
         </div>
