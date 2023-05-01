@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const NavLinks = (props) => {
   let styling = "mx-1 my-4 max-lg:my-0 p-2";
 
-  props.isMobile ? (styling += "py-4 p-7 bg-[#FFD523] text-black text-center") : (styling = "mx-1 my-4 p-2");
+  props.isMobile ? (styling += "py-4 p-7 bg-[#FFD523] text-black text-center border border-yellow-800 border-opacity-40 right-side-animation") : (styling = "mx-1 my-4 p-2");
 
   return (
     <>
