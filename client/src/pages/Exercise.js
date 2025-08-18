@@ -8,6 +8,7 @@ const Exercise = () => {
   const { loading, data } = useQuery(QUERY_EXERCISES);
 
   const exercises = data?.exercises || [];
+  
   let [filteredExercises, setFilteredExercises] = useState([...exercises]);
 
   const filterExercises = (event) => {
