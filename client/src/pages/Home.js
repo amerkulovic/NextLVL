@@ -1,4 +1,3 @@
-import React from "react";
 import Quote from "../components/UI/Quote";
 import CircleText from "../components/UI/CircleText";
 import homeLogo from "../images/arnold-pose.jpeg";
