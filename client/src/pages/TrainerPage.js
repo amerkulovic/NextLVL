@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { useParams } from "react-router-dom";
 import TrainerInfo from "../components/UI/TrainerInfo";
 import tanktop from "../images/black-tanktop.jpg";
