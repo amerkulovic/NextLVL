@@ -16,7 +16,3 @@ HTML
 ## Screenshot
 
 ![Next LVL](screenshot.png "Next LVL")
-
-## Link
-
-[Next LVL]()
