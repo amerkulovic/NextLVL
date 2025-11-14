@@ -1,5 +1,5 @@
 # NextLVL
-A website for all your fitness need! You can see all of our exercises and filter through them, you can purchase items through our shop, and you can read more about us, our trainers, and even contact us using our contact form!
+A website for all your fitness needs! You can see all of our exercises and filter through them, you can purchase items through our shop, and you can read more about us, our trainers, and even contact us using our contact form!
 
 ## Skills
 
