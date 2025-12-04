@@ -10,7 +10,7 @@ Router\
 Tailwinds CSS\
 JavaScript Logic\
 Animation\
-CSS Styling\
+CSS\
 HTML
 
 ## Screenshot
